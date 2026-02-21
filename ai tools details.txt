@@ -1,0 +1,27 @@
+🥇 Best Option — StackBlitz
+
+Go to stackblitz.com
+Click "Start a new project" → choose React + TypeScript + Vite
+Delete the default files inside src/
+Upload / paste your files into the editor matching the folder structure
+It auto-installs and runs live in the browser — share the URL with anyone!
+
+
+🥈 Option 2 — CodeSandbox
+
+Go to codesandbox.io
+Click "Create Sandbox" → "Import from GitHub" (if you push to GitHub) OR choose Vite + React + TS template
+Paste your files in
+It runs instantly with a shareable live URL
+
+
+🥉 Option 3 — GitHub + Vercel (Best for sharing permanently)
+
+Push all your files to a GitHub repo
+Go to vercel.com → "Add New Project" → import the repo
+Vercel auto-detects Vite, builds, and gives you a live public URL like servo-sight.vercel.app
+
+
+
+https://stackblitz.com/fork/vitejs-vite-react-ts
+Then paste your ServoSight.tsx into src/, update App.tsx to import it, and you're live in seconds.
